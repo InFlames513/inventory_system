@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class RPGInventoryV2 {
 
-    static int[] inventory = {101, 505, 202}; 
+    static int[] inventory = {101, 505, 202};
 
     public static void lootItem(int newItemID) {
       int[] newInv = new int[inventory.length+1];
