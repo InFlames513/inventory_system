@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class RPGInventory {
+public class RPGInventoryV1 {
 
     static int[] inventory = {101, 505, 202}; 
 
